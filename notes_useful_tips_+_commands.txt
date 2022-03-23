@@ -10,3 +10,5 @@ git bisect - find out at which commit something broke in the code
   - It's a good idea to have the first line of the commit message to be short,
     specific, and clear; then add additional descriptive text.
 git add -p, git commit -p
+- All the materials are public and you can revisit them later. Recordings will be posted on youtube and you can re-watch them. There are other educational initiatives by CodeRefinery that you might want to follow, for example Research Software Hour https://researchsoftwarehour.github.io/
+
