@@ -9,3 +9,4 @@ git bisect - find out at which commit something broke in the code
   - You can tag the commits that were version releases;
   - It's a good idea to have the first line of the commit message to be short,
     specific, and clear; then add additional descriptive text.
+git add -p, git commit -p
