@@ -1,4 +1,11 @@
 git switch
 git annotate
 git show
+git grep - only searches through the current state of the repo
+git log -S - also searches through the changes that happened in history
 - accessing github via https may be deprecated in the future
+git bisect - find out at which commit something broke in the code
+- In commit messages:
+  - You can tag the commits that were version releases;
+  - It's a good idea to have the first line of the commit message to be short,
+    specific, and clear; then add additional descriptive text.
