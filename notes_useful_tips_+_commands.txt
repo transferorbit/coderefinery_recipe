@@ -1,0 +1,4 @@
+git switch
+git annotate
+git show
+- accessing github via https may be deprecated in the future
